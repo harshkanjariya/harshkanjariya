@@ -15,13 +15,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate snake game
         uses: Platane/snk@v3
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=green&color_dots=#3199ff,red:yellow,blue
-            dist/github-snake.gif?color_snake=green&color_dots=#3199ff,red:yellow,blue
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
