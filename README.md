@@ -51,10 +51,9 @@ I'm a passionate **Full Stack Developer** and **Mobile App Developer** who loves
 
 ### 📊 GitHub Stats
 
-<!-- Snake animation will appear here after workflow runs -->
-![GitHub Snake](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/output/github-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/output/github-snake-dark.svg#gh-dark-mode-only)
 
-<!-- 3D Contribution graph will appear here after workflow runs -->
 ![GitHub Profile 3D Contribution](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 🤝 Let's Connect
