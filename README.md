@@ -9,7 +9,6 @@ I'm a passionate **Full Stack Developer** and **Mobile App Developer** who loves
 - 🔨 Building scalable web applications and mobile apps
 - 🎯 Passionate about problem-solving and clean code
 - 🌱 Continuously learning and exploring new technologies
-- 🎵 Currently learning flute in my spare time
 - 🤝 Open to collaborating on web and Android projects
 
 ### 🛠️ Tech Stack
@@ -53,10 +52,10 @@ I'm a passionate **Full Stack Developer** and **Mobile App Developer** who loves
 ### 📊 GitHub Stats
 
 <!-- Snake animation will appear here after workflow runs -->
-<!-- ![GitHub Snake](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/output/github-snake.svg) -->
+![GitHub Snake](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/output/github-snake.svg)
 
 <!-- 3D Contribution graph will appear here after workflow runs -->
-<!-- ![GitHub Profile 3D Contribution](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/main/profile-3d-contrib/profile-night-rainbow.svg) -->
+![GitHub Profile 3D Contribution](https://raw.githubusercontent.com/harshkanjariya/harshkanjariya/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 🤝 Let's Connect
 
